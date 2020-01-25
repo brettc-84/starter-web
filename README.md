@@ -12,7 +12,7 @@ Simple web project to learn various Git commands and features.
 Deployment to any web server.
 
 ## Contribution guidelines
-Contribute using Github.
+Contribute using Github. Forking the repository and issueing a pull request is the best.
 
 ## Copyright
 2020 Udemy.Git.
