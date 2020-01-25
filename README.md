@@ -9,5 +9,7 @@ An example project to learn different Git commands and features.
 Simple web project to learn various Git commands and features.
 
 ## Deployment
+Deployment to any web server.
 
 ## Contribution guidelines
+Contribute using Github.
