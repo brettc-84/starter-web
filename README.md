@@ -9,7 +9,7 @@ An example project to learn different Git commands and features.
 Simple web project to learn various Git commands and features.
 
 ## Deployment
-Deployment to any web server as long as it runs!
+Deployment to any web server as long as it runs! This a fix.
 
 ## Contribution guidelines
 Contribute using Github. Forking the repository and issueing a pull request is the best.
