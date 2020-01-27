@@ -16,4 +16,4 @@ Contribute using Github. Forking the repository and issueing a pull request is t
 Master branch unprotected.
 
 ## Copyright
-2020 Udemy.Git.
+2020 Udemy.Git. All rights reserved.
