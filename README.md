@@ -13,6 +13,7 @@ Deployment to any web server.
 
 ## Contribution guidelines
 Contribute using Github. Forking the repository and issueing a pull request is the best.
+Master branch unprotected.
 
 ## Copyright
 2020 Udemy.Git.
